@@ -88,6 +88,6 @@
             app:layout_constraintTop_toTopOf="@+id/textView"
             app:srcCompat="@drawable/linkedin"
             tools:visibility="visible" />
-    
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
